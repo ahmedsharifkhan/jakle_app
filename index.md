@@ -2,4 +2,5 @@
 layout: home
 ---
 
-Welcome TO the Blog
+
+{% include big-cat.html %}
