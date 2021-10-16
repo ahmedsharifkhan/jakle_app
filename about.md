@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: dark
 title: About
+example: This is an example value.
 ---
 
 Some Markdown content describing your site.
