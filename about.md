@@ -1,5 +1,5 @@
 ---
-layout: green
+layout: dark
 title: About
 example: This is an example value.
 ---
