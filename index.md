@@ -3,4 +3,4 @@ layout: home
 ---
 
 
-{% include big-cat.html %}
+# {% include big-cat.html %}
