@@ -3,7 +3,7 @@ title: Blog
 author:
   name: Ahmed Sharif Khan
   email: email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+description: "Great site."
 
 # Build settings
 remote_theme: jekyll/minima
