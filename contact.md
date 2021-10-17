@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+
 ---
 
 Some Markdown content describing your site.
